@@ -1,0 +1,17 @@
+{
+    "python.pythonPath": "C:\\Users\\User\\Anaconda3\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pycodestyleArgs":[
+        "--max-line-length=120"
+    ],
+    "python.formatting.provider": "autopep8",
+    "python.formatting.autopep8Args": [
+        "--max-line-length",
+        "120"
+    ],
+//    "code-runner.executorMap": {
+//        "python": "conda activate base && C:\\ProgramData\\Anaconda3\\python.exe"
+//        "python": "source /anaconda3/bin/activate && conda activate base && /anaconda3/bin/python"
+//    },
+}
